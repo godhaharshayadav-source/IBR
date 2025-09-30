@@ -23,7 +23,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            height: 80vh;
         }
         .font-orbitron { font-family: 'Orbitron', sans-serif; }
         .container {
